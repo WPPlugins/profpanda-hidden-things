@@ -1,0 +1,118 @@
+# Copyright (C) 2017 ProfPanda Hidden Things
+# This file is distributed under the same license as the ProfPanda Hidden Things package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfPanda Hidden Things 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/profpanda-hidden-"
+"things\n"
+"POT-Creation-Date: 2017-01-23 02:40-0200\n"
+"PO-Revision-Date: 2017-01-19 08:31-0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: profpanda_hidden_things.php:70
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: profpanda_hidden_things.php:77
+msgid "Login Screen"
+msgstr "Tela de Login"
+
+#: profpanda_hidden_things.php:84
+msgid "Dashboard"
+msgstr "Página Inicial"
+
+#: profpanda_hidden_things.php:92
+msgid "Price"
+msgstr "Preço"
+
+#: profpanda_hidden_things.php:105
+msgid "Buy Button"
+msgstr "Botão Comprar"
+
+#: profpanda_hidden_things.php:118
+msgid "Login Logo"
+msgstr "Login Logo"
+
+#: profpanda_hidden_things.php:131
+msgid "Admin Footer Text"
+msgstr "Texto do Rodapé do Admin"
+
+#: profpanda_hidden_things.php:144
+msgid "Dashboard Plugins"
+msgstr "Plugins"
+
+#: profpanda_hidden_things.php:157 profpanda_hidden_things.php:196
+msgid "Dashboard Recent Comments"
+msgstr "Comentários Recentes "
+
+#: profpanda_hidden_things.php:170
+msgid "Dashboard Primary Area"
+msgstr "Área Principal"
+
+#: profpanda_hidden_things.php:183
+msgid "Dashboard Secondary Area"
+msgstr "Área Secundária"
+
+#: profpanda_hidden_things.php:209
+msgid "Dashboard Incoming Links"
+msgstr "Entrada de Links"
+
+#: profpanda_hidden_things.php:222
+msgid "Dashboard Right Now"
+msgstr "Agora"
+
+#: profpanda_hidden_things.php:235
+msgid "Dashboard Quick Press"
+msgstr "Rascunho"
+
+#: profpanda_hidden_things.php:248
+msgid "Dashboard Activity"
+msgstr "Atividade"
+
+#: profpanda_hidden_things.php:279
+msgid "Hide price and/or buy button when user are not logged."
+msgstr "Ocultar preço e/ou botão comprar quando usuário não estiver logado."
+
+#: profpanda_hidden_things.php:286
+msgid "Change options in Login screen."
+msgstr "Modificar opções na tela de Login."
+
+#: profpanda_hidden_things.php:293
+msgid "Hide elements in Dashboard."
+msgstr "Ocultr elementos na Página Inicial"
+
+#: profpanda_hidden_things.php:629
+msgid "Settings Saved"
+msgstr "Configurações Salvas"
+
+#. Plugin Name of the plugin/theme
+msgid "ProfPanda Hidden Things"
+msgstr "ProfPanda Hidden Things"
+
+#. Plugin URI of the plugin/theme
+msgid "http://profpanda.com.br/profpanda_hidden_things"
+msgstr "http://profpanda.com.br/profpanda_hidden_things"
+
+#. Description of the plugin/theme
+msgid "Este é um plugin para ocultar elementos do admin no wordpress"
+msgstr "Este é um plugin para ocultar elementos do admin no wordpress"
+
+#. Author of the plugin/theme
+msgid "Anderson Profpanda"
+msgstr "Anderson Profpanda"
+
+#. Author URI of the plugin/theme
+msgid "http://profpanda.com.br"
+msgstr "http://profpanda.com.br"

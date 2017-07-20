@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfPanda Hidden Things\n"
+"POT-Creation-Date: 2017-01-23 02:55-0200\n"
+"PO-Revision-Date: 2017-01-23 02:55-0200\n"
+"Last-Translator: \n"
+"Language-Team: Anderson ProfPanda <prof.andersongf@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: C:/Users/Anderson/Panda/teste/wp-content/plugins/"
+"profpanda_hidden_things\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: profpanda_hidden_things.php:82
+msgid "<span class=\"woo\">Woocommerce</span>"
+msgstr "<span class=\"woo\">Woocommerce</span>"
+
+#: profpanda_hidden_things.php:89
+msgid "<span class=\"loginscreen\">Login Screen</span>"
+msgstr "<span class=\"loginscreen\">Tela de Login</span>"
+
+#: profpanda_hidden_things.php:96
+msgid "<span class=\"dash\">Dashboard</span>"
+msgstr "<span class=\"dash\">Página Inicial</span>"
+
+#: profpanda_hidden_things.php:104
+msgid "Price"
+msgstr "Preço"
+
+#: profpanda_hidden_things.php:117
+msgid "Buy Button"
+msgstr "Botão Comprar"
+
+#: profpanda_hidden_things.php:130
+msgid "Login Logo"
+msgstr "Logo do Login"
+
+#: profpanda_hidden_things.php:143
+msgid "Admin Footer Text"
+msgstr "Texto do Rodapé do Admin"
+
+#: profpanda_hidden_things.php:156
+msgid "Dashboard Plugins"
+msgstr "Plugins"
+
+#: profpanda_hidden_things.php:169
+msgid "Dashboard Recent Comments"
+msgstr "Comentários Recentes"
+
+#: profpanda_hidden_things.php:182
+msgid "Dashboard Primary Area"
+msgstr "Área Principal"
+
+#: profpanda_hidden_things.php:195
+msgid "Dashboard Secondary Area"
+msgstr "Área Secundária"
+
+#: profpanda_hidden_things.php:208
+msgid "Dashboard Incoming Links"
+msgstr "Entrada de Links"
+
+#: profpanda_hidden_things.php:221
+msgid "Dashboard Right Now"
+msgstr "Agora"
+
+#: profpanda_hidden_things.php:234
+msgid "Dashboard Quick Press"
+msgstr "Rascunho rápido"
+
+#: profpanda_hidden_things.php:247
+msgid "Dashboard Activity"
+msgstr "Atividade"
+
+#: profpanda_hidden_things.php:278
+msgid "Hide price and/or buy button when user are not logged."
+msgstr "Ocultar preço e/ou botão comprar quando usuário não estiver logado."
+
+#: profpanda_hidden_things.php:285
+msgid "Change options in Login screen."
+msgstr "Modificar opções na Tela de Login."
+
+#: profpanda_hidden_things.php:292
+msgid "Hide elements in Dashboard."
+msgstr "Ocultar elementos na Página Inicial."
+
+#: profpanda_hidden_things.php:313 profpanda_hidden_things.php:336
+msgid "Hide"
+msgstr "Ocultar"
+
+#: profpanda_hidden_things.php:316 profpanda_hidden_things.php:339
+msgid "Show"
+msgstr "Mostrar"
+
+#: profpanda_hidden_things.php:320
+msgid "Hide the product price if user are not logged. "
+msgstr "Ocultar o preço do produto se o usuário não estiver logado."
+
+#: profpanda_hidden_things.php:343
+msgid "Hide the buy button if user are not logged. "
+msgstr "Ocultar o botão comprar se o usuário não estiver logado."
+
+#: profpanda_hidden_things.php:360
+msgid "Enter the Logo URL you want to use in the Login screen."
+msgstr "Inserir a URL do Logo que você deseja usar na tela de Login."
+
+#: profpanda_hidden_things.php:377
+msgid "Enter the text to be show in the admin footer."
+msgstr "Inserir o texto que será mostrado no rodapé da tela de Admin"
+
+#: profpanda_hidden_things.php:403
+msgid "Hide the Dasboard Plugin area. "
+msgstr "Ocultar os Plugins da Página Inicial"
+
+#: profpanda_hidden_things.php:429
+msgid "Hide the Dasboard Recent Comments area. "
+msgstr "Ocultar os Comentários Recentes da Página Inicial"
+
+#: profpanda_hidden_things.php:455
+msgid "Hide the Dasboard Primary area. "
+msgstr "Ocultar a Área Principal da Página Inicial"
+
+#: profpanda_hidden_things.php:481
+msgid "Hide the Dasboard Secondary area. "
+msgstr "Ocultar a Área Secundária da Página Inicial"
+
+#: profpanda_hidden_things.php:507
+msgid "Hide the Dasboard Incoming Links area. "
+msgstr "Ocultar a Entrada de Links da Página Inicial"
+
+#: profpanda_hidden_things.php:533
+msgid "Hide the Dasboard Right Now area. "
+msgstr "Ocultar o Agora da Página Inicial"
+
+#: profpanda_hidden_things.php:559
+msgid "Hide the Dasboard Quick Press area. "
+msgstr "Ocultar o Rascunho rápido da Página Inicial"
+
+#: profpanda_hidden_things.php:585
+msgid "Hide the Dasboard Activity area. "
+msgstr "Ocultar a Atividade da Página Inicial"
+
+#: profpanda_hidden_things.php:628
+msgid "Settings Saved"
+msgstr "Configurações Salvas"
+
+#: profpanda_hidden_things.php:644
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#~ msgid "Woocommerce"
+#~ msgstr "Woocommerce"
+
+#~ msgid "Login Screen"
+#~ msgstr "Tela de Login"
+
+#~ msgid "Dashboard"
+#~ msgstr "Página Inicial"
